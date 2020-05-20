@@ -27,7 +27,8 @@ jobs:
       run: |
         cd Server
         npm install
-        npm run build:production
+        npm run build --if-present
+        npm prune --production
     - name: Build And Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
