@@ -23,12 +23,6 @@ jobs:
     - uses: actions/checkout@v1
     - name: Build Client
       run: dotnet publish ./Client/StaticWebApps.Client.csproj -c Release -o dist/website
-    - name: Build API
-      run: |
-        cd Server
-        npm install
-        npm run build --if-present
-        npm prune --production
     - name: Build And Deploy
       id: builddeploy
       uses: Azure/static-web-apps-deploy@v0.0.1-preview
