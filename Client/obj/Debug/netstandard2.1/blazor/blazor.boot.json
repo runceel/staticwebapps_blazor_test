@@ -9,7 +9,7 @@
   "linkerEnabled": false,
   "resources": {
     "assembly": {
-      "StaticWebApps.Client.dll": "sha256-wPaGvBg7Dj3+GVbscRiLKTEJifZXAaMtExpAfJQQ5ls=",
+      "StaticWebApps.Client.dll": "sha256-OmfE8eJakixTbyEgBnofgCqMr\/05539bn03kco+vQ94=",
       "Microsoft.Extensions.Configuration.Binder.dll": "sha256-1d98vLxz\/49XW6Mx6IB613o5ogbwJ4qLxmqz2D2LPDM=",
       "Microsoft.Extensions.Configuration.Abstractions.dll": "sha256-D1gbYUWxCdwEKvWRcGQoVikKs0zgWMUenGMDEaDRxrc=",
       "Microsoft.Extensions.Primitives.dll": "sha256-DG1MjidH81NA50uWH63eWmXLCxt18sJzoF2oXVlyvlY=",
@@ -64,7 +64,7 @@
       "Microsoft.JSInterop.WebAssembly.dll": "sha256-dwm+rKImjhxtOmHHVpSxOgl2oh2R26xOWihLaZSv7Vs="
     },
     "pdb": {
-      "StaticWebApps.Client.pdb": "sha256-iAxOEJePHSiIPrnX3m473mN0XmTRtpvcsC04q2MNZNw="
+      "StaticWebApps.Client.pdb": "sha256-9gfX+KT0DUdIWC7WDT3TrWT7Z2TGPCKrAdczgZ4rj10="
     },
     "runtime": {
       "dotnet.3.2.0.js": "sha256-mPoqx7XczFHBWk3gRNn0hc9ekG1OvkKY4XiKRY5Mj5U=",

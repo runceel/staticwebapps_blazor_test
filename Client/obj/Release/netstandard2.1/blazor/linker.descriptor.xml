@@ -1,0 +1,5 @@
+﻿<linker>
+  <assembly fullname="StaticWebApps.Client">
+    <type fullname="*" required="true" />
+  </assembly>
+</linker>
